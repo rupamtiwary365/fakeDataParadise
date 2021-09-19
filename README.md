@@ -9,8 +9,8 @@ This website generates fake data ğŸ“ ranging from a Persons' personal details ğ
 ---
 ## What's next for Fake Data Paradise
 Few more features I would like to include are -
-1.) Get data in different file formats like Excel, JSON, SQL and other known file types.
-2.) Get the data through email.
+1. Get data in different file formats like Excel, JSON, SQL and other known file types.
+2. Get the data through email.
 ---
 ## Built with
 * HTML
