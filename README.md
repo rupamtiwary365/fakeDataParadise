@@ -22,3 +22,6 @@ This website generates fake data using faker.js module.
 ## Credit
 * faker.js
 * undraw.co
+---
+## Try it out
+[fakeDataParadise](https://fakedataparadise.netlify.app/)
