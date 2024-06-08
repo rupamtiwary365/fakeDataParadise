@@ -1,3 +1,5 @@
+#Group project made Rupam Tiwary and Dhruv Jain during semester break 
+
 # fakeDataParadise
 This website generates fake data using faker.js module.
 ---
